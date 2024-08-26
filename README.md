@@ -3,10 +3,12 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harish11223&count_private=true&theme=dark&show_icons=true" width="400" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harish11223&show_icons=true&locale=en&layout=compact&theme=dark" alt="harish11223" />
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=harish11223&count_private=true&theme=dark&show_icons=true" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harish11223&show_icons=true&locale=en&layout=compact&theme=dark" alt="harish11223" />
+  </div>
 </div>
+
 
 <br>
 
