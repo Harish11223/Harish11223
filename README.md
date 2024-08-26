@@ -1,10 +1,13 @@
 <div align="left">
-<h2> Hi, I'm Harish Chandra! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"></h2>
+<h2> Hi, I'm Harish Chandra Mahto! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"></h2>
 </div>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harish11223&count_private=true&theme=dark&show_icons=true" width="400" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harish11223&show_icons=true&locale=en&layout=compact&theme=dark" alt="harish11223" />
 </div>
+
 <br>
 
 ![](https://komarev.com/ghpvc/?username=harish11223&color=brightgreen)
