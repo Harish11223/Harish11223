@@ -1,53 +1,60 @@
 <div align="left">
 <h2> Hi, I'm Harish Chandra Mahto! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"></h2>
 </div>
+
 <br>
+
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=harish11223&count_private=true&theme=dark&show_icons=true" width="400" />
   </div>
 </div>
 
-
 <br>
 
 ![](https://komarev.com/ghpvc/?username=harish11223&color=brightgreen)
 
-## Connect with me:
-<p align="center">
-    <a href="mailto:harish654@hotmail.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/452213/gmail.svg" height="40px" alt="mail"/>
-    </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/harish-chandra-mahto/" target="_blank">
-    <img src="https://www.svgrepo.com/show/134579/linkedin.svg" height="40px"/>
-    </a>&nbsp;&nbsp;
-   <a href="https://instagram.com/harish_chandra_007" target="_blank">
-    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="40px" alt="Instagram"/>
-    </a>&nbsp;&nbsp;
-</p>
-     
-## Languages
-<p align="center">
-<img src="https://www.svgrepo.com/show/303480/c-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/349402/html5.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/349330/css3.svg"  height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/349419/javascript.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+---
 
-## Frameworks, Libraries & Databases
-<p align="center">
-<img src="https://www.svgrepo.com/show/355190/reactjs.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/373595/firebase.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+## 🌐 Socials
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harish654@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-chandra-mahto/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harish_chandra_007)
 
 
+---
 
+## 💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+---
 
+## ⚙️ Frameworks, Libraries & Databases
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+ ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
 
 <!---
-nagarajpandith/nagarajpandith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+harish11223/harish11223 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
