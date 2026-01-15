@@ -2,25 +2,17 @@
 <h2> Hi, I'm Harish Chandra Mahto! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"></h2>
 </div>
 
-<br>
+<!-- <br> -->
 
-<div align="center">
+<!-- <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=harish11223&count_private=true&theme=dark&show_icons=true" width="400" />
   </div>
-</div>
+</div> -->
 
-<br>
+<!-- <br>
 
-![](https://komarev.com/ghpvc/?username=harish11223&color=brightgreen)
-
----
-
-## 🌐 Socials
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harish654@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-chandra-mahto/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harish_chandra_007)
-
+![](https://komarev.com/ghpvc/?username=harish11223&color=brightgreen) -->
 
 ---
 
@@ -52,6 +44,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🌐 Socials
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harish654@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-chandra-mahto/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harish_chandra_007)
 
 ---
 
